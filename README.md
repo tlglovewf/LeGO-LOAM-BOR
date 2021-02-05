@@ -2,9 +2,6 @@
 
 This is a fork of the original [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM).
 
-This is a "friendly fork", in other words, we will be happy to work with the original authors to merge
-these improvements with the original LeGO-LOAM... if they want to!
-
 The original author deserves all the credits, we just use good software engineering practices to
 make the code more readable and efficient.
 
@@ -21,12 +18,9 @@ The purpose of this fork is:
 
 The purpose of this fork (for the time being) is **not** to modify and/or improve the original algorithm.
 
-Please do not submit to this repository any issue related to the algorithm, since we are focusing on the
-software implementation.
+**I am not going to maintain this anymore. I hope people find it useful, but I am not replying to any Issues or question**. 
 
-# I am not maintaing this anymore
-
-I don't want to maintain this. I hope people find it useful, but I am not acdepting Issues nor Pull Requests. Fork it and have fun.
+Fork it and have fun.
 
 # About the original LeGO-LOAM
 This repository contains code for a lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
