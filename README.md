@@ -24,6 +24,10 @@ The purpose of this fork (for the time being) is **not** to modify and/or improv
 Please do not submit to this repository any issue related to the algorithm, since we are focusing on the
 software implementation.
 
+# I am not maintaing this anymore
+
+I don't want to maintain this. I hope people find it useful, but I am not acdepting Issues nor Pull Requests. Fork it and have fun.
+
 # About the original LeGO-LOAM
 This repository contains code for a lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
 The system takes in point cloud  from a Velodyne VLP-16 Lidar (palced horizontal) and optional IMU data as inputs.
