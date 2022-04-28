@@ -9,6 +9,14 @@ lego_loam:
         vertical_angle_top: 15              # degrees
         sensor_mount_angle: 0               # degrees
         scan_period: 0.1                    # seconds
+    # laser:
+    #     num_vertical_scans: 32
+    #     num_horizontal_scans: 2000
+    #     ground_scan_index: 20
+    #     vertical_angle_bottom: -16          # degrees
+    #     vertical_angle_top: 15              # degrees
+    #     sensor_mount_angle: 0               # degrees
+    #     scan_period: 0.1                    # seconds
 
     imageProjection:
         segment_valid_point_num: 5
